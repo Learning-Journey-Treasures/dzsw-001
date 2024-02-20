@@ -1,4 +1,6 @@
-代码获取地址：[点击获取源码](https://x-x.fun/e/KT4a50d4aemWw) 💕🤞
+代码获取地址：[点击获取源码](https://x-x.fun/e/KT4a50d4aemWw) 💕
+
+[点我获得更多Java源码，用于学习、毕设](http://blog.cyrobot.top/blog) 🤞
 
 ## 1.源码介绍
 
