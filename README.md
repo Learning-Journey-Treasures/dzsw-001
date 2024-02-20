@@ -1,4 +1,4 @@
-代码获取地址：[输入链接说明](https://x-x.fun/e/KT4a50d4aemWw) 💕🤞
+代码获取地址：[点击获取源码](https://x-x.fun/e/KT4a50d4aemWw) 💕🤞
 
 ## 1.源码介绍
 
