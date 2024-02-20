@@ -1,37 +1,66 @@
-# 基于SSH的商城系统
+## 1.源码介绍
 
-#### 介绍
-基于SSH的商城系统
+开发语言：Java
+开发框架：Struts2+Spring+Hibernate
+后台用到Freemarker模板引擎
+服务器环境：JDK1.8+Tomcat8.0+Mysql5.7
 
-#### 软件架构
-软件架构说明
+>PS:如果想用于毕业设计/论文，题目示例：基于SSH的水果商城系统的设计与实现
+
+## 2.安装教程
+
+1. 下载源码，解压到本地，将代码导入到IDEA或者Eclipse中；
+2. 通过Navicat或其他的数据库图形化工具，创建数据库，将fenxiao0220.sql导入到mysql数据库中；
+3. 修改源码中数据库信息，修改文件：WEB-INF\classes\database.properties
+>jdbc.user=数据库用户名
+jdbc.password=数据库密码
+jdbc.driverClass=com.mysql.jdbc.Driver
+jdbc.jdbcUrl=jdbc:mysql://数据库IP:3306/数据库名?useUnicode=true&characterEncoding=UTF-8&autoReconnect=true
+
+4. 添加Tomcat Local server，运行项目。
+>后台路径：http://域名/admin
+后台用户名：admin
+密码：admin
+
+### 3.后台功能
+
+>系统设置
+管理员列表
+文章栏目
+文章管理
+产品管理
+留言管理
+订单管理
+会员管理
+财务明细
+佣金明细
+提现管理
+充值管理
+充值卡管理  
+![输入图片说明](dzsw-0016.png)
+
+## 4.微信/H5端
+
+>我要购买
+我的信息
+推广链接
+订单管理
+查看所有订单
+下级统计
+财务信息
+佣金明细
+申请提现
+提现列表
+在线充值
+充值卡充值
+财务明细
+奖金转入
+会员转账
+![输入图片说明](dzsw-0011.png)![输入图片说明](dzsw-0012.png)
 
 
-#### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+------
 
-#### 使用说明
+代码获取地址：https://x-x.fun/e/KT4a50d4aemWw  💕🤞
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
