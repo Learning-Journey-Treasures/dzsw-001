@@ -1,8 +1,6 @@
+![gh_17810254f3db_258](https://github.com/user-attachments/assets/823c226a-bc3a-43ce-a69c-c3f4f8ffeeb2)
+
  **郑重声明：项目经过本地测试，确保可以运行， 可以用于学习和毕业设计参考~** 
-
-代码获取地址：[点击获取源码](https://x-x.fun/e/KT4a50d4aemWw) 💕
-
-[点我获得更多Java源码，用于学习、毕设](http://blog.cyrobot.top/blog) 🤞
 
 ## 1.源码介绍
 
